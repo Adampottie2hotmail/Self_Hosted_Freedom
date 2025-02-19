@@ -9,19 +9,5 @@ hide:
 ---
 
 
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Want to start a server?
+Well we got you! In this wiki there is all the popular apps and opertaing systems to get you started with Self Hosting and tinkering! This could be a high-end gaming PC or an old laptop. There are some requirements!
