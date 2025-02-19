@@ -1,0 +1,104 @@
+site_name: PrawnLAB
+site_url: https://wiki.prawnlab.co.uk
+nav:
+  - "Home":
+      - index.md
+  - "Blog":
+      - blog/index.md
+  - "Installation":
+      - installation/index.md
+      - installation/docker.md
+      - installation/k8s.md
+      - installation/unraid.md
+      - installation/source.md
+
+
+plugins:
+  - blog
+
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: black
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  favicon: assets/favicon.ico
+  features:
+    - navigation.instant
+    - content.action.edit
+    - search.suggest
+    - search.share
+    - content.code.copy
+    - content.code.select
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - content.code.annotate
+
+extra_css:
+  - "stylesheets/extra.css"
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/k4ruYNrudu
+    - icon: fontawesome/brands/github
+      link: https://github.com/gethomepage/homepage
+    - icon: simple/opencollective
+      link: https://opencollective.com/homepage
+    - icon: simple/patreon
+      link: https://www.patreon.com/gethomepage
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - admonition
+
+
+features:
+    - navigation.instant
+    - content.action.edit
+    - search.suggest
+    - search.share
+    - content.code.copy
+    - content.code.select
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - content.code.annotate
