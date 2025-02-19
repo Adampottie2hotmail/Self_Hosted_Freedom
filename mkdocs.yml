@@ -6,7 +6,8 @@ site_url: https://aroic-studios.co.uk
 # repo_url: https://github.com/Adampottie2hotmail/Self_Hosted_Freedom
 edit_uri: https://github.com/Adampottie2hotmail/Self_Hosted_Freedom/tree/main/docs/
 
-
+# Copyright
+copyright: Copyright &copy; 2021 - 2025 Aroic-Studios
 
 nav:
   - "Home":
