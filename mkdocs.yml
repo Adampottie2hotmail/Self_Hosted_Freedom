@@ -14,7 +14,7 @@ nav:
   - "Blog":
       - blog/index.md
   - "Requirements":
-      - requirements.md
+      - requirements/index.md
 
 
 plugins:
