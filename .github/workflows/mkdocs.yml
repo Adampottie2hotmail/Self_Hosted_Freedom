@@ -3,7 +3,10 @@ name: Deploy MkDocs
 on:
   push:
     branches:
-      - main  # Change this if using another branch
+      - main  # Adjust if your default branch is different
+
+permissions:
+  contents: write
 
 jobs:
   deploy:
