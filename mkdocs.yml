@@ -72,7 +72,7 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
-    - toc.follow
+    # - toc.follow
     # - toc.integrate
 
 extra_css:
