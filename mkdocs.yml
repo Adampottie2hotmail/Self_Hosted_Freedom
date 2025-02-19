@@ -5,12 +5,8 @@ nav:
       - index.md
   - "Blog":
       - blog/index.md
-  - "Installation":
-      - installation/index.md
-      - installation/docker.md
-      - installation/k8s.md
-      - installation/unraid.md
-      - installation/source.md
+  - "Requirements":
+      - requirements.md
 
 
 plugins:
