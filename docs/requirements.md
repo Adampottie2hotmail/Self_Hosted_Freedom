@@ -1,3 +1,11 @@
+---
+title: Requirements
+description: Hardware & Software Requirements for starting a Server
+hide:
+  - navigation
+  - path
+---
+
 # Requirements
 
 ## Hardware Requirements
