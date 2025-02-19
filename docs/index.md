@@ -1,3 +1,14 @@
+---
+title: Home
+description: Home Page
+icon: material/home
+hide:
+  - navigation
+  - toc
+  - path
+---
+
+
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
