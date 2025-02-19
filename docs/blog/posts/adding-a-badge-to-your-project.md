@@ -11,9 +11,9 @@ categories:
 ---
 
 # Adding a :simple-materialformkdocs: badge to your project
-Can yo see this
+
 __You enjoy working with Material for MkDocs? Share the love! You can now add
-a badge to your project's README, showing that your project is built with
+a badge to your homelab project's README, showing that your project is built with
 Material for MkDocs.__
 
 Material for MkDocs' logo was just added to [Simple Icons], which is used by
