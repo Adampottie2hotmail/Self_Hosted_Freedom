@@ -13,7 +13,7 @@ hide:
 Here you will find detailed instructions for how to setup each OS (Operating System)
 
 <div class="grid cards" style="margin: 0 auto;" markdown>
-:simple-docker: [&nbsp; Ubuntu 22.04 :octicons-arrow-right-24:](ubuntu_22.04.md)
+:material-ubuntu: [&nbsp; Ubuntu 22.04 :octicons-arrow-right-24:](ubuntu_22.04.md)
 { .card }
 
 </div>
