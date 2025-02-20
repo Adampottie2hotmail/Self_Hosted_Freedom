@@ -58,17 +58,10 @@ theme:
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
-    - navigation.expand
     # - navigation.footer
-    - navigation.sections
-    - navigation.indexes
-    - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
     # - navigation.prune
-    - navigation.tracking
-    - navigation.tabs
-    # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
@@ -76,6 +69,13 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
+    - navigation.tabs        # Creates top-level navigation like WordPress
+    - navigation.tabs.sticky # Makes the top navigation sticky
+    - navigation.sections    # Enables collapsible sidebar sections
+    - navigation.expand      # Expands sections by default
+    - navigation.instant     # Instant loading like WordPress
+    - navigation.tracking    # Highlights the active section
+
 
 extra_css:
   - "stylesheets/extra.css"
