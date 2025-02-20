@@ -1,6 +1,6 @@
 ---
 title: Beginner's Guide to Self Hosting
-description: A full beginner's guide tp the Self Hosting world 
+description: A full beginner's guide to the Self Hosting world 
 icon: material/network
 hide:
   - navigation
