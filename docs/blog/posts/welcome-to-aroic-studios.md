@@ -15,6 +15,8 @@ categories:
 
 Welcome to **Aroic-Studios**, the ultimate destination for self-hosting enthusiasts! Whether you're just getting started or you're a seasoned pro, we've got everything you need to take control of your own services, data, and digital environment. Any issues, please raise an issue on our [GitHub](https://github/Adampottie2hotmail/Self_Hosted_Freedom)
 
+<!-- more -->
+
 ### What We Offer
 - **Guides & Tutorials** – Step-by-step walkthroughs to help you set up and manage self-hosted applications.
 - **Software Reviews** – Discover the best self-hosted solutions for your needs.
