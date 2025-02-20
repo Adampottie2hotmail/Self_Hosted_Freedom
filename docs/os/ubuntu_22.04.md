@@ -1,3 +1,11 @@
+---
+title: Ubuntu 22.04
+description: Detailed instructions for how to setup Ubuntu 22.04
+hide:
+  - path
+---
+
+
 # Setting Up Ubuntu 22.04: Complete Guide
 
 ## 1. Download Ubuntu 22.04
@@ -87,9 +95,10 @@ ssh username@your-ip-address
 ```
 
 ## 7. Final Steps
+- **Set a Static IP:** Use the settings app on the desktop version.
 - **Create Backups:** Set up `Timeshift` for system snapshots.
 - **Customize UI:** Use `gnome-tweaks` for additional desktop customization.
 - **Enjoy Ubuntu 22.04!** 🚀
 
-This guide covers the complete setup process for Ubuntu 22.04 from scratch. Let me know if you need further tweaks!
+This guide covers the complete setup process for Ubuntu 22.04 from scratch.
 
