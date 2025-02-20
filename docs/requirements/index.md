@@ -1,6 +1,7 @@
 ---
 title: Requirements
 description: Hardware & Software Requirements for starting a Server
+icon: material/memory
 hide:
   - navigation
   - path
