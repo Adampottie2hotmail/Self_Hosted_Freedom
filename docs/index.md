@@ -25,7 +25,7 @@ Self-hosting gives you **privacy, control, and flexibility** over your data and 
 🔹 **Automate and optimize your home lab**  
 
 ## Get Started  
-👉 **[Beginner’s Guide to Self-Hosting](#)**  
+👉 **[Beginner’s Guide to Self-Hosting](beginner_guide/index.md)**  
 👉 **[Recommended Software & Tools](#)**  
 👉 **[Security Best Practices](#)**  
 
