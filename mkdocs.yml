@@ -11,16 +11,12 @@ edit_uri: https://github.com/Adampottie2hotmail/Self_Hosted_Freedom/tree/main/do
 copyright: Copyright &copy; 2021 - 2025 Aroic-Studios
 
 nav:
-  - "Home":
-      - index.md
-  - "Blog":
-      - blog/index.md
-  - "Beginner's Guide":
-      - beginner_guide/index.md
-  - "Requirements":
-      - requirements/index.md
+  - Home: index.md
+  - Blog: blog/index.md
+  - Beginner's Guide: beginner_guide/index.md
+  - Requirements: requirements/index.md
   - Operating Systems:
-      - os/index.md
+      - Home: os/index.md
       - Ubuntu 22.04: os/ubuntu_22.04.md
 
 
