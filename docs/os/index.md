@@ -1,6 +1,6 @@
 ---
 title: OS Home
-description: Detailed instructions for how to setup Ubuntu 22.04
+description: Detailed instructions for how to setup any Operating System that can be used as a server
 icon: material/laptop
 hide:
   - path
