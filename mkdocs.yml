@@ -16,7 +16,7 @@ nav:
   - Beginner's Guide: beginner_guide/index.md
   - Requirements: requirements/index.md
   - Operating System:
-      - Home: os/index.md
+      - os/index.md
       - Ubuntu 22.04: os/ubuntu_22.04.md
 
 
