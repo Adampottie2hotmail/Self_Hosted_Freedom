@@ -5,7 +5,6 @@ icon: material/post
 hide:
   - path
   - toc
-  - navigation
 ---
 
 
