@@ -1,6 +1,7 @@
 ---
 title: OS Home
 description: Detailed instructions for how to setup Ubuntu 22.04
+icon: material/laptop
 hide:
   - path
   - toc
