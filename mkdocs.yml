@@ -62,7 +62,7 @@ theme:
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
-    # - navigation.expand
+    - navigation.expand
     # - navigation.footer
     - navigation.indexes
     # - navigation.instant
@@ -88,7 +88,7 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/k4ruYNrudu
     - icon: fontawesome/brands/github
-      link: https://github.com/gethomepage/homepage
+      link: https://github.com/Adampottie2hotmail
     - icon: simple/opencollective
       link: https://opencollective.com/homepage
     - icon: simple/patreon
