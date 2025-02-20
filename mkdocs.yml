@@ -19,9 +19,9 @@ nav:
       - beginner_guide/index.md
   - "Requirements":
       - requirements/index.md
-  - "Operating Systems":
+  - Operating Systems:
       - os/index.md
-      - os/ubuntu_22.04.md
+      - Ubuntu 22.04: os/ubuntu_22.04.md
 
 
 plugins:
