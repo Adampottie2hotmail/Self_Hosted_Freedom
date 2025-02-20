@@ -60,7 +60,7 @@ theme:
     # - header.autohide
     - navigation.expand
     # - navigation.footer
-    - navigation.indexes
+    - navigation.sections
     - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
