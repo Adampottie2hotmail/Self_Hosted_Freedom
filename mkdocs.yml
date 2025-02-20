@@ -17,6 +17,9 @@ nav:
       - blog/index.md
   - "Requirements":
       - requirements/index.md
+  - "Operating Systems":
+      - os/index.md
+      - os/ubuntu_22.04.md
 
 
 plugins:
