@@ -69,9 +69,7 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
-    - navigation.tabs        # Creates top-level navigation like WordPress # Makes the top navigation sticky sidebar sections      # Expands sections by default
-    - navigation.instant     # Instant loading like WordPress
-    - navigation.tracking    # Highlights the active section
+
 
 
 extra_css:
