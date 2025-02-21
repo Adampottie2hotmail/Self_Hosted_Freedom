@@ -70,8 +70,7 @@ theme:
     - toc.follow
     # - toc.integrate
     - navigation.tabs        # Creates top-level navigation like WordPress
-    - navigation.indexes # Makes the top navigation sticky
-    - navigation.sections    # Enables collapsible sidebar sections      # Expands sections by default
+    - navigation.indexes # Makes the top navigation sticky sidebar sections      # Expands sections by default
     - navigation.instant     # Instant loading like WordPress
     - navigation.tracking    # Highlights the active section
 
