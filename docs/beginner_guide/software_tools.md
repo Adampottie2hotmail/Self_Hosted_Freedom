@@ -53,6 +53,7 @@ Self-hosting allows you to run your own services instead of relying on third-par
 - **Plex** - Media streaming server with remote access.
 - **Jellyfin** - Open-source alternative to Plex.
 - **Emby** - Hybrid media server solution.
+- **Navidrome** - Music streaming service
 
 ---
 
