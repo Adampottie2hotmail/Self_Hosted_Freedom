@@ -26,7 +26,7 @@ Self-hosting gives you **privacy, control, and flexibility** over your data and 
 
 ## Get Started  
 👉 **[Beginner’s Guide to Self-Hosting](beginner_guide/index.md)**  
-👉 **[Recommended Software & Tools](#)**  
+👉 **[Recommended Software & Tools](beginner_guide/software_tools.md)**  
 👉 **[Security Best Practices](#)**  
 
 Ready to take control? **Let’s get started!** 💡
