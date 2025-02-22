@@ -1,6 +1,7 @@
 ---
 title: Recommended Software & Tools
 description: All Recommended Software & Tools for starting a server
+icon: material/application
 hide:
   - path
 ---
