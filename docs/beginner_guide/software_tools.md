@@ -1,7 +1,6 @@
 ---
 title: Recommended Software & Tools
-description: A full beginner's guide to the Self Hosting world 
-icon: material/network
+description: All Recommended Software & Tools for starting a server
 hide:
   - path
 ---
