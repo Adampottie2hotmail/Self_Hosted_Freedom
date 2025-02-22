@@ -16,4 +16,8 @@ Here you will find detailed instructions for how to setup each OS (Operating Sys
 :material-ubuntu: [&nbsp; Ubuntu 22.04 :octicons-arrow-right-24:](ubuntu_22.04.md)
 { .card }
 
+<div class="grid cards" style="margin: 0 auto;" markdown>
+:material-microsoft-windows: [&nbsp; Windows 10 / 11 :octicons-arrow-right-24:](windows.md)
+{ .card }
+
 </div>
