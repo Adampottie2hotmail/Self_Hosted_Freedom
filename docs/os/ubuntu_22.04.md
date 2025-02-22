@@ -1,6 +1,7 @@
 ---
 title: Ubuntu 22.04
 description: Detailed instructions for how to setup Ubuntu 22.04
+icon: material/ubuntu
 hide:
   - path
 ---
