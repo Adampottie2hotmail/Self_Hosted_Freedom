@@ -69,7 +69,6 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
-    - navigation.tabs
 
 
 
