@@ -7,7 +7,7 @@ hide:
 ---
 
 
-# Self-Hosting Recommended Software & Tools
+# Recommended Software & Tools
 
 ## Introduction
 Self-hosting allows you to run your own services instead of relying on third-party providers. Below is a list of recommended software and tools categorized by their functionality.
