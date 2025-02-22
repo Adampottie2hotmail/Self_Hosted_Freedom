@@ -48,6 +48,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+# logo: assets/banner_light@2x.webp
   favicon: assets/favicon.ico
   features:
     - announce.dismiss
